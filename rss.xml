@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[J2Sound]]></title>
         <description><![CDATA[J2Sound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j2sound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:27:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:31:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j2sound/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/11250165-6c9e-4200-b8f9-9c8856e0d043.jpg">]]></description>
+            <link>https://thegrid.ai/j2sound/403f6cd3-24d2-4c11-be7d-b438be8b06ac/index.html</link>
+            <guid isPermaLink="false">403f6cd3-24d2-4c11-be7d-b438be8b06ac</guid>
+            <pubDate>Wed, 17 Aug 2016 17:31:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cbff310-e259-44a8-b308-b23173969627.jpg">]]></description>
-            <link>undefinedi-am-super-excited-about-launching-this-new-site-my-passion/index.html</link>
+            <link>https://thegrid.ai/j2sound/i-am-super-excited-about-launching-this-new-site-my-passion/index.html</link>
             <guid isPermaLink="false">184aec0b-3e05-44fe-8a46-d4aff8b2015d</guid>
             <pubDate>Wed, 17 Aug 2016 15:27:33 GMT</pubDate>
         </item>
